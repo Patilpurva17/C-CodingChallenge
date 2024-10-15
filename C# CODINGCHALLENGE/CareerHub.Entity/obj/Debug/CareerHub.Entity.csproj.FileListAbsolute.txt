@@ -1,0 +1,6 @@
+D:\C# CODINGCHALLENGE\CareerHub.Entity\bin\Debug\CareerHub.Entity.dll
+D:\C# CODINGCHALLENGE\CareerHub.Entity\bin\Debug\CareerHub.Entity.pdb
+D:\C# CODINGCHALLENGE\CareerHub.Entity\obj\Debug\CareerHub.Entity.csproj.AssemblyReference.cache
+D:\C# CODINGCHALLENGE\CareerHub.Entity\obj\Debug\CareerHub.Entity.csproj.CoreCompileInputs.cache
+D:\C# CODINGCHALLENGE\CareerHub.Entity\obj\Debug\CareerHub.Entity.dll
+D:\C# CODINGCHALLENGE\CareerHub.Entity\obj\Debug\CareerHub.Entity.pdb

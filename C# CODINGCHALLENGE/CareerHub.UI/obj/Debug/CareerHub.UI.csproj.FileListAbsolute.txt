@@ -1,0 +1,12 @@
+D:\C# CODINGCHALLENGE\CareerHub.UI\bin\Debug\CareerHub.UI.exe.config
+D:\C# CODINGCHALLENGE\CareerHub.UI\bin\Debug\CareerHub.UI.exe
+D:\C# CODINGCHALLENGE\CareerHub.UI\bin\Debug\CareerHub.UI.pdb
+D:\C# CODINGCHALLENGE\CareerHub.UI\obj\Debug\CareerHub.UI.csproj.AssemblyReference.cache
+D:\C# CODINGCHALLENGE\CareerHub.UI\obj\Debug\CareerHub.UI.csproj.CoreCompileInputs.cache
+D:\C# CODINGCHALLENGE\CareerHub.UI\obj\Debug\CareerHub.UI.exe
+D:\C# CODINGCHALLENGE\CareerHub.UI\obj\Debug\CareerHub.UI.pdb
+D:\C# CODINGCHALLENGE\CareerHub.UI\bin\Debug\CareerHub.BusinessLayer.dll
+D:\C# CODINGCHALLENGE\CareerHub.UI\bin\Debug\CareerHub.Entity.dll
+D:\C# CODINGCHALLENGE\CareerHub.UI\bin\Debug\CareerHub.BusinessLayer.pdb
+D:\C# CODINGCHALLENGE\CareerHub.UI\bin\Debug\CareerHub.Entity.pdb
+D:\C# CODINGCHALLENGE\CareerHub.UI\obj\Debug\CareerHu.9D3A8EDF.Up2Date

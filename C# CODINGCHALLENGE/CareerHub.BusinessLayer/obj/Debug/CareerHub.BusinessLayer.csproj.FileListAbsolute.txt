@@ -1,0 +1,9 @@
+D:\C# CODINGCHALLENGE\CareerHub.BusinessLayer\bin\Debug\CareerHub.BusinessLayer.dll
+D:\C# CODINGCHALLENGE\CareerHub.BusinessLayer\bin\Debug\CareerHub.BusinessLayer.pdb
+D:\C# CODINGCHALLENGE\CareerHub.BusinessLayer\obj\Debug\CareerHub.BusinessLayer.csproj.AssemblyReference.cache
+D:\C# CODINGCHALLENGE\CareerHub.BusinessLayer\obj\Debug\CareerHub.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\C# CODINGCHALLENGE\CareerHub.BusinessLayer\obj\Debug\CareerHub.BusinessLayer.dll
+D:\C# CODINGCHALLENGE\CareerHub.BusinessLayer\obj\Debug\CareerHub.BusinessLayer.pdb
+D:\C# CODINGCHALLENGE\CareerHub.BusinessLayer\bin\Debug\CareerHub.Entity.dll
+D:\C# CODINGCHALLENGE\CareerHub.BusinessLayer\bin\Debug\CareerHub.Entity.pdb
+D:\C# CODINGCHALLENGE\CareerHub.BusinessLayer\obj\Debug\CareerHu.7FDA34F4.Up2Date
